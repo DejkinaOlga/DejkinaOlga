@@ -14,6 +14,7 @@ __Вот, что я умею:__
 - Машинное обучение. Алгоритмы кластеризации (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Алгоритмы_кластеризации.ipynb)
 - Машинное обучение. Feature_Selection (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Feature_Selection.ipynb)
 - Машинное обучение. Поиск выбросов и генерация новых признаков (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Поиск_выбросов.ipynb)
+- Машинное обучение. Ансамблирование (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Ансамблирование.ipynb)
 
 
 <!---
