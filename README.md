@@ -9,7 +9,7 @@ __Вот, что я умею:__
 - Обработка естественного языка. Тематическое моделирование (https://github.com/DejkinaOlga/-_projects/blob/main/дз_тематическое_моделирование.py)
 - Обработка естественного языка. Классификация в АОТ (https://github.com/DejkinaOlga/-_projects/blob/main/дз_классификация_в_nlp.py)
 - Нейронные сети. Сверточные нейронные сети (https://github.com/DejkinaOlga/-_projects/blob/main/дз_введение_в_сверточные_нс.py)
-- Нейронные сети. Рекуррентные нейронные сети (https://github.com/DejkinaOlga/-_projects/blob/main/введение_в_рекуррентные_нс.py)
+- Нейронные сети. Рекуррентные нейронные сети (https://github.com/DejkinaOlga/-_projects/blob/main/Введение_в_рекуррентные_НС.ipynb)
 - 
 
 
