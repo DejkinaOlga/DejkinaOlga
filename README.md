@@ -12,6 +12,7 @@ __Вот, что я умею:__
 - Нейронные сети. Рекуррентные нейронные сети (https://github.com/DejkinaOlga/-_projects/blob/main/Введение_в_рекуррентные_НС.ipynb)
 - Машинное обучение. Улучшение качества модели (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_улучшение_качества_модели.ipynb)
 - Машинное обучение. Алгоритмы кластеризации (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Алгоритмы_кластеризации.ipynb)
+- Машинное обучение. Feature_Selection (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Feature_Selection.ipynb)
 
 
 <!---
