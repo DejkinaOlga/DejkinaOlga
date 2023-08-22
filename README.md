@@ -10,6 +10,7 @@ __Вот, что я умею:__
 - Обработка естественного языка. Классификация в АОТ (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Классификация_в_NLP.ipynb)
 - Нейронные сети. Сверточные нейронные сети (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Введение_в_сверточные_НС.ipynb)
 - Нейронные сети. Рекуррентные нейронные сети (https://github.com/DejkinaOlga/-_projects/blob/main/Введение_в_рекуррентные_НС.ipynb)
+- Машинное обучение. Улучшение качества модели (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_улучшение_качества_модели.ipynb)
 - 
 
 
