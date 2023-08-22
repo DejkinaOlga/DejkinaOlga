@@ -20,6 +20,7 @@ __Вот, что я умею:__
 - Машинное обучение. Проблема качества данных (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Проблема_качества_данных.ipynb)
 - Машинное обучение. Оценка точности модели, переобучение, регуляризация (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Оценка_точности_модели_переобучение_регуляризация.ipynb)
 - Машинное обучение. Классификация: Логистическая регрессия и SVM (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_классификация_логистическая_регрессия_и_SVM_кор.ipynb)
+- Математика для Data Science (https://github.com/DejkinaOlga/-_projects/blob/main/_Итоговая_математика.ipynb)
 
 
 <!---
