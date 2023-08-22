@@ -17,6 +17,7 @@ __Вот, что я умею:__
 - Машинное обучение. Ансамблирование (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Ансамблирование.ipynb)
 - Машинное обучение. Деревья решений (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Деревья_решений.ipynb)
 - Машинное обучение. Работа с переменными (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_работа_с_переменными.ipynb)
+- Машинное обучение. Проблема качества данных (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Проблема_качества_данных.ipynb)
 
 
 <!---
