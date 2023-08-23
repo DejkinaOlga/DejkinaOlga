@@ -28,6 +28,7 @@ __Вот, что я умею:__
 - Статистика. Статистическая проверка гипотез для связанных выборок. А/В тесты и как их проводить (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ__A_B_testing_ipynb_.ipynb)
 - Статистика. Доверительные интервалы. Статистическая проверка гипотез для несвязанных выборок (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_доверительные_интервалы.ipynb)
 - Статистика. Задачи классификации и кластеризации (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Задачи_классификации_и_кластеризации.ipynb)
+- Статистика. Корреляция и корреляционный анализ (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ__Корреляция.ipynb)
 
 
 <!---
