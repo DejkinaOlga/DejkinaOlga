@@ -25,6 +25,7 @@ __Вот, что я умею:__
 - Математика. Теория вероятностей (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_теор_вероятн.ipynb)
 - Математика. Продвинутая оптимизация (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_продв_оптимиз.ipynb)
 - Математический анализ. Функции нескольких переменных (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_произв_ф_2_перем.ipynb)
+- Статистическая проверка гипотез для связанных выборок. А/В тесты и как их проводить (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ__A_B_testing_ipynb_.ipynb)
 
 
 <!---
