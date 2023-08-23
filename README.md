@@ -24,6 +24,7 @@ __Вот, что я умею:__
 - Математика. Основы статистики (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_основы_статистики.ipynb)
 - Математика. Теория вероятностей (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_теор_вероятн.ipynb)
 - Математика. Продвинутая оптимизация (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_продв_оптимиз.ipynb)
+- Математический анализ. Функции нескольких переменных (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_произв_ф_2_перем.ipynb)
 
 
 <!---
