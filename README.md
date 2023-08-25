@@ -34,6 +34,7 @@ __Вот, что я умею:__
 - Статистика. Базовые понятия статистики (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_stat_basics_кор.ipynb)
 - Функции и работа с данными (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_pandas_функции_кор_ipynb_.ipynb)
 - Библиотека Pandas (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_pandas.ipynb)
+- Библиотека numpy. Вычислительные задачи (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_numpy_вычисл_задачи__ipynb_.ipynb)
 
 
 <!---
