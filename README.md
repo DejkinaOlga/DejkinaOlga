@@ -30,6 +30,7 @@ __Вот, что я умею:__
 - Статистика. Задачи классификации и кластеризации (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Задачи_классификации_и_кластеризации.ipynb)
 - Статистика. Корреляция и корреляционный анализ (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ__Корреляция.ipynb)
 - Статистика. Случайные события. Случайные величины (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_random_var.ipynb)
+- Статистика. Визуализация (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_stat_viz.ipynb)
 
 
 <!---
