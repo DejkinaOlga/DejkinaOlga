@@ -31,6 +31,7 @@ __Вот, что я умею:__
 - Статистика. Корреляция и корреляционный анализ (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ__Корреляция.ipynb)
 - Статистика. Случайные события. Случайные величины (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_random_var.ipynb)
 - Статистика. Визуализация данных (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_stat_viz.ipynb)
+- Статистика. Базовые понятия статистики (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_stat_basics_кор.ipynb)
 
 
 <!---
