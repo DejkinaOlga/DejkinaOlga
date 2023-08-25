@@ -32,6 +32,7 @@ __Вот, что я умею:__
 - Статистика. Случайные события. Случайные величины (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_random_var.ipynb)
 - Статистика. Визуализация данных (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_stat_viz.ipynb)
 - Статистика. Базовые понятия статистики (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_stat_basics_кор.ipynb)
+- Функции и работа с данными (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_pandas_функции_кор_ipynb_.ipynb)
 
 
 <!---
