@@ -46,7 +46,22 @@ Python; SQL; PyTorch; TensorBoard; библиотеки numpy, scipy, pandas, sk
 - [Сверточные нейронные сети](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Введение_в_сверточные_НС.ipynb) 
 - [Рекуррентные нейронные сети](https://github.com/DejkinaOlga/-_projects/blob/main/Введение_в_рекуррентные_НС.ipynb) 
 
+### __Модуль "Машинное обучение"__
+***задачи:*** _построение и обучение свёрточной сети для классификации изображений на данных CIFAR10; построение и обучение модели рекурентной сети_
 
+***используемые технологии:*** _библиотека TensorFlow, библиотека nltk, библиотека Matplotlib, TensorBoard, PyTorch_
+
+***результаты:***
+- [Улучшение качества модели](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_улучшение_качества_модели.ipynb) 
+- [Алгоритмы кластеризации](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Алгоритмы_кластеризации.ipynb) 
+- [Feature_Selection ](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Feature_Selection.ipynb)
+- [Поиск выбросов и генерация новых признаков](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Поиск_выбросов.ipynb) 
+- [Ансамблирование](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Ансамблирование.ipynb) 
+- [Деревья решений](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Деревья_решений.ipynb) 
+- [Работа с переменными](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_работа_с_переменными.ipynb) 
+- [Проблема качества данных](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Проблема_качества_данных.ipynb)
+- [Оценка точности модели, переобучение, регуляризация](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Оценка_точности_модели_переобучение_регуляризация.ipynb)
+- [Классификация: Логистическая регрессия и SVM ](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_классификация_логистическая_регрессия_и_SVM_кор.ipynb)
 
 
 
