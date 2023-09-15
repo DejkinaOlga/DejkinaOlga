@@ -77,23 +77,17 @@ Python; SQL; PyTorch; TensorBoard; библиотеки numpy, scipy, pandas, sk
 - [Визуализация данных](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_stat_viz.ipynb) 
 - [Базовые понятия статистики](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_stat_basics_кор.ipynb) 
 
+### __Модуль "Математика для анализа данных"__
+- [Математика для Data Science](https://github.com/DejkinaOlga/-_projects/blob/main/_Итоговая_математика.ipynb) 
+- [Основы статистики](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_основы_статистики.ipynb)
+- [Теория вероятностей ](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_теор_вероятн.ipynb)
+- [Продвинутая оптимизация](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_продв_оптимиз.ipynb) 
+- [Функции нескольких переменных](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_произв_ф_2_перем.ipynb) 
 
-
-- Математика для Data Science (https://github.com/DejkinaOlga/-_projects/blob/main/_Итоговая_математика.ipynb)
-- Математика. Основы статистики (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_основы_статистики.ipynb)
-- Математика. Теория вероятностей (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_теор_вероятн.ipynb)
-- Математика. Продвинутая оптимизация (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_продв_оптимиз.ipynb)
-- Математический анализ. Функции нескольких переменных (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_произв_ф_2_перем.ipynb)
-- Статистика. Статистическая проверка гипотез для связанных выборок. А/В тесты и как их проводить (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ__A_B_testing_ipynb_.ipynb)
-- Статистика. Доверительные интервалы. Статистическая проверка гипотез для несвязанных выборок (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_доверительные_интервалы.ipynb)
-- Статистика. Задачи классификации и кластеризации (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Задачи_классификации_и_кластеризации.ipynb)
-- Статистика. Корреляция и корреляционный анализ (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ__Корреляция.ipynb)
-- Статистика. Случайные события. Случайные величины (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_random_var.ipynb)
-- Статистика. Визуализация данных (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_stat_viz.ipynb)
-- Статистика. Базовые понятия статистики (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_stat_basics_кор.ipynb)
-- Функции и работа с данными (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_pandas_функции_кор_ipynb_.ipynb)
-- Библиотека Pandas (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_pandas.ipynb)
-- Библиотека numpy. Вычислительные задачи (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_numpy_вычисл_задачи__ipynb_.ipynb)
+### __Модуль "NumPy, pandas, MPL"__
+- [Функции и работа с данными](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_pandas_функции_кор_ipynb_.ipynb) 
+- [Библиотека Pandas](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_pandas.ipynb)
+- [Библиотека numpy. Вычислительные задачи](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_numpy_вычисл_задачи__ipynb_.ipynb) 
 
 
 <!---
