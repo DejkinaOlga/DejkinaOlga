@@ -9,7 +9,7 @@
 
 
 ## __Мой стек:__
-Python; SQL; PyTorch; TensorBoard; библиотеки numpy, scipy, pandas, sklearn, keras, natasha, Gensim, nltk, tqdm, TensorFlow, Matplotlib
+Python; SQL; PyTorch; TensorBoard; библиотеки numpy, scipy, pandas, sklearn, keras, natasha, Gensim, nltk, tqdm, TensorFlow, Matplotlib, Seaborn
 
 
 
@@ -47,9 +47,9 @@ Python; SQL; PyTorch; TensorBoard; библиотеки numpy, scipy, pandas, sk
 - [Рекуррентные нейронные сети](https://github.com/DejkinaOlga/-_projects/blob/main/Введение_в_рекуррентные_НС.ipynb) 
 
 ### __Модуль "Машинное обучение"__
-***задачи:*** _построение и обучение свёрточной сети для классификации изображений на данных CIFAR10; построение и обучение модели рекурентной сети_
+***задачи:*** _ модели логистической регрессии и метода опорных векторов в задаче бинарной классификации; модели линейной регрессии; модели кластеризации; деревья решений; ансамблирование; оценка качества моделей; оптимизация параметров моделей; разведочный анализ данных; оценка качества данных; Feature Selection_
 
-***используемые технологии:*** _библиотека TensorFlow, библиотека nltk, библиотека Matplotlib, TensorBoard, PyTorch_
+***используемые технологии:*** _библиотеки numpy, scipy, pandas, sklearn, Matplotlib, Seaborn_
 
 ***результаты:***
 - [Улучшение качества модели](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_улучшение_качества_модели.ipynb) 
