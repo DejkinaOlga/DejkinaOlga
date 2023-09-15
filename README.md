@@ -8,7 +8,8 @@ __Приветствую!__
 
 __Мой стек:__ Python; SQL; библиотеки numpy, scipy, pandas, sklearn, keras
 
-__Мои сертификаты:__ https://github.com/DejkinaOlga/-1/blob/main/certificate.pdf
+__Мои сертификаты:__ 
+- [Нетология. Обработка естественного языка](https://github.com/DejkinaOlga/-1/blob/main/certificate.pdf) 
 
 __Мои проекты в Нетологии:__
 - [Дипломная работа профессии «Data Science: Обработка естественного языка»](https://github.com/DejkinaOlga/-_projects/blob/main/Дипломная_работа.ipynb)
