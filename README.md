@@ -9,7 +9,7 @@
 
 
 ## __Мой стек:__
-Python; SQL; PyTorch; библиотеки numpy, scipy, pandas, sklearn, keras, natasha, Gensim, nltk, tqdm
+Python; SQL; PyTorch; TensorBoard; библиотеки numpy, scipy, pandas, sklearn, keras, natasha, Gensim, nltk, tqdm, TensorFlow, Matplotlib
 
 
 
@@ -37,11 +37,21 @@ Python; SQL; PyTorch; библиотеки numpy, scipy, pandas, sklearn, keras,
 - [Тематическое моделирование](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Тематическое_моделирование.ipynb)
 - [Классификация в АОТ](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Классификация_в_NLP.ipynb) 
 
+### __Модуль "Нейронные сети"__
+***задачи:*** _построение и обучение свёрточной сети для классификации изображений на данных CIFAR10; построение и обучение модели рекурентной сети_
 
-- Обработка естественного языка. Тематическое моделирование (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Тематическое_моделирование.ipynb)
-- Обработка естественного языка. Классификация в АОТ (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Классификация_в_NLP.ipynb)
-- Нейронные сети. Сверточные нейронные сети (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Введение_в_сверточные_НС.ipynb)
-- Нейронные сети. Рекуррентные нейронные сети (https://github.com/DejkinaOlga/-_projects/blob/main/Введение_в_рекуррентные_НС.ipynb)
+***используемые технологии:*** _библиотека TensorFlow, библиотека nltk, библиотека Matplotlib, TensorBoard, PyTorch_
+
+***результаты:***
+- [Сверточные нейронные сети](https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Введение_в_сверточные_НС.ipynb) 
+- [Рекуррентные нейронные сети](https://github.com/DejkinaOlga/-_projects/blob/main/Введение_в_рекуррентные_НС.ipynb) 
+
+
+
+
+
+
+
 - Машинное обучение. Улучшение качества модели (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_улучшение_качества_модели.ipynb)
 - Машинное обучение. Алгоритмы кластеризации (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Алгоритмы_кластеризации.ipynb)
 - Машинное обучение. Feature_Selection (https://github.com/DejkinaOlga/-_projects/blob/main/ДЗ_Feature_Selection.ipynb)
