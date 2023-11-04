@@ -18,6 +18,18 @@ Python; SQL; PyTorch; TensorBoard; библиотеки numpy, scipy, pandas, sk
 
 
 
+## __Хакатоны:__
+
+### __Fintech 2.0. Задача от МТС банка__
+***задача:*** _построить модель, предсказывающую дефолт по займу_
+
+***технический стек:*** _pandas, numpy, sklearn, catboost, matplotlib, seaborn_
+
+***результаты:*** _[презентация](https://github.com/DejkinaOlga/-1/blob/main/Reboot_хакатон_МТС.pdf)_ 
+- [код](https://github.com/DejkinaOlga/-_projects/blob/main/Reboot_Хакатон_МТС.ipynb)
+
+
+
 ## __Мои проекты в Нетологии:__
 
 ### __Дипломная работа по курсу "Обработка естественного языка"__
