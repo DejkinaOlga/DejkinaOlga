@@ -14,7 +14,7 @@ Python; SQL; PyTorch; TensorBoard; библиотеки numpy, scipy, pandas, sk
 
 
 ## __Мои сертификаты:__ 
-- [Нетология. Обработка естественного языка](https://github.com/DejkinaOlga/-1/blob/main/диплом.pdf) 
+- [Data Scienсе. Обработка естественного языка](https://github.com/DejkinaOlga/-1/blob/main/диплом.pdf) 
 
 
 
@@ -30,7 +30,19 @@ Python; SQL; PyTorch; TensorBoard; библиотеки numpy, scipy, pandas, sk
 
 
 
-## __Мои проекты в Нетологии:__
+## __Pet проекты:__
+
+### __Анализ вакансий на hh.ru__
+***задача:*** _получить биграммы из описания вакансии Data Scientist_
+
+***технический стек:*** _requests, pymorphy2, nltk, pandas, numpy, sklearn, matplotlib, seaborn_
+
+***результаты:*** 
+- [код](https://github.com/DejkinaOlga/-_projects/blob/main/hh_DS_description.ipynb)
+  
+
+
+## __Учебные проекты:__
 
 ### __Дипломная работа по курсу "Обработка естественного языка"__
 ***задачи:*** _на основе заданного набора постов на спортивную тематику в VK определить, какой вид спорта обсуждается в выбранном сообществе_
