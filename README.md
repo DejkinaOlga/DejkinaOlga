@@ -25,7 +25,7 @@ Python; SQL; PyTorch; TensorBoard; библиотеки numpy, scipy, pandas, sk
 
 ***технологии:*** _проведена предобработка данных и  feature engineering; pазработано две модели: с применением алгоритмов классического МО (TfidfVectorizer +  LogisticRegression с оптимизацией гиперпараметров) и нейронная сеть на базе PyTorch; проведена оценка качества моделей_
 
-***результаты:*** _[создан мультиклассовый классификатор текстовых документов]([url](https://docs.google.com/presentation/d/1sveM3UG2NhFw1aT2-kyoSvDqn55vwW6cbBZAhTkIWeA/edit#slide=id.g126ebda427b_0_118))_ 
+***результаты:*** _[создан мультиклассовый классификатор текстовых документов](https://github.com/DejkinaOlga/-1/blob/main/DIP-DSN-CP-2.pdf)_ 
 - [Дипломная работа по теме "Классификация русскоязычных спортивных текстов"](https://github.com/DejkinaOlga/-_projects/blob/main/Дипломная_работа.ipynb)
   
 ### __Модуль "Обработка естественного языка"__
