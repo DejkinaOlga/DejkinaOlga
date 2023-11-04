@@ -14,7 +14,7 @@ Python; SQL; PyTorch; TensorBoard; библиотеки numpy, scipy, pandas, sk
 
 
 ## __Мои сертификаты:__ 
-- [Нетология. Обработка естественного языка](https://github.com/DejkinaOlga/-1/blob/main/certificate.pdf) 
+- [Нетология. Обработка естественного языка](https://github.com/DejkinaOlga/-1/blob/main/диплом.pdf) 
 
 
 
